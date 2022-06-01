@@ -4,4 +4,4 @@ This is a sample readme file for sample repository Demo
 
 # new line to be added
 
-This is the difference
+This is going to cause a conflict
